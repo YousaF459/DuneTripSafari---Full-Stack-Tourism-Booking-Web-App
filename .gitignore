@@ -1,0 +1,17 @@
+# Node / React frontend
+Frontend/node_modules/
+Frontend/.env
+Frontend/build/
+
+# Python / Django backend
+Backend/__pycache__/
+Backend/*.pyc
+Backend/.env
+Backend/db.sqlite3
+Backend/media/  
+Backend/products/        # ignore uploaded media
+Backend/staticfiles/  # ignore generated static files
+
+# General
+.DS_Store
+.env
